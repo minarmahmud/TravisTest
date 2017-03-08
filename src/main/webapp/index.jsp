@@ -5,5 +5,6 @@
   </head>
   <body>
     <h1>Hello Travis!</h1>
+    <h2>Testing build!</h2>
   </body>
 </html>
